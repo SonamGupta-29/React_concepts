@@ -5,10 +5,10 @@ export default function Fruits() {
   // const fruits = ["Apple", "Mango", "Banana", "Grapes"]
 
   const fruits = [
-    { name: "Apple", price: "100", emoji: "🍎" },
-    { name: "Mango", price: "100", emoji: "🥭" },
-    { name: "Banana", price: "100", emoji: "🍌" },
-    { name: "Orange", price: "100", emoji: "🟠" },
+    { name: "Apple", price: "10", emoji: "🍎" },
+    { name: "Mango", price: "1", emoji: "🥭" },
+    { name: "Banana", price: "20", emoji: "🍌" },
+    { name: "Orange", price: "4", emoji: "🟠" },
     { name: "Pineapple", price: "100", emoji: "🍍" },
   ];
   //   return(

@@ -16,9 +16,9 @@ function App() {
       {/* props concepts */}
       {/* <Hello name="Sonam" message="Hi" emoji="🖐️" />  */}
       {/* <Hello person={person} /> */}
-      {/* <Fruits /> */}
+      <Fruits />
 
-      < ConditionalComponent />
+      {/* < ConditionalComponent /> */}
     </div>
   );
 }
