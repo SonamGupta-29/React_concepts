@@ -2,6 +2,7 @@ import Hello from "./component/Hello";
 import Fruits from "./component/Fruits";
 import ConditionalComponent from "./component/ConditionalComponent";
 import Welcome from "./component/Welcome";
+import Counter from "./component/Counter";
 
 function App() {
   //  return <h1>Hello world!</h1>
@@ -20,7 +21,8 @@ function App() {
       {/* <Fruits /> */}
 
       {/* < ConditionalComponent /> */}
-      <Welcome />
+      <Counter />
+      {/* <Welcome /> */}
     </div>
   );
 }
